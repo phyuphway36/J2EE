@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HomeRenting/src/main/webapp/registerform.html&apos; to &apos;add-home.html&apos;" description="Rename resource &apos;registerform.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/registerform.html" name="add-home.html" stamp="1667094467087" updateReferences="true"/>
+</session>

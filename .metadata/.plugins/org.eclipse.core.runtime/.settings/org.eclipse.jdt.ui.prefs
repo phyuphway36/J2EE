@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="utility.VehicleDataSource"><rhs name\="utility.VehicleDataSource"/></lhs><lhs name\="com.hostmdy.model.Result"><rhs name\="com.hostmdy.model.Result"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.hostmdy.model.ResultDAO"><rhs name\="com.hostmdy.model.ResultDAO"/></lhs><lhs name\="com.hostmdy.model.User"><rhs name\="com.hostmdy.model.User"/></lhs><lhs name\="home.model.House"><rhs name\="home.model.House"/></lhs><lhs name\="home.model.User"><rhs name\="home.model.User"/></lhs><lhs name\="home.model.UserDAO"><rhs name\="home.model.UserDAO"/></lhs><lhs name\="home.model.HouseDAO"><rhs name\="home.model.HouseDAO"/></lhs><lhs name\="java.io.OutputStream"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.Flushable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.FileOutputStream"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="java.lang.Double"/></lhs><lhs name\="java.lang.constant.ConstantDesc"><rhs name\="java.lang.Double"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Double"/></lhs><lhs name\="home.model.RentList"><rhs name\="home.model.RentList"/></lhs><lhs name\="home.model.RentDAO"><rhs name\="home.model.RentDAO"/></lhs><lhs name\="home.model.Rent"><rhs name\="home.model.Rent"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.Date"/></lhs><lhs name\="java.util.Date"><rhs name\="java.util.Date"/></lhs><lhs name\="home.model.RentTableDAO"><rhs name\="home.model.RentTableDAO"/></lhs><lhs name\="home.model.RentTable"><rhs name\="home.model.RentTable"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

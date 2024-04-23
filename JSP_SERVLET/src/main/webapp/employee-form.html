@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Employee Resume Form</h2>
+    <form action="form-reader.jsp" method="post" >
+        <table  width = "30%" cellpading ="10" cellspacing = "20">
+            <tr>
+                <td><label for="fname">FirstName</label></td>
+                <td><input type="text" name="fname" id="fname" placeholder="Enter Firstname" required></td>
+            </tr>
+            <tr>
+                <td><label for="lname">LastName</label></td>
+                <td><input type="text" name="lname" id="lname"  placeholder="Enter Lastname" required ></td>
+            </tr>
+            <tr>
+                <td><label for="password">Password</label></td>
+                <td><input type="password" name="password" id="password"  placeholder="Enter Password" required></td>
+            </tr>
+            <tr>
+                <td><label for="email">Email</label></td>
+                <td><input type="email" name="email" id="email"  placeholder="Enter Email" required></td>
+            </tr>
+            <tr>
+                <td><label for="country">Country</label></td>
+                <td><select name="country" id="country">
+                    <option value="MYANMAR">Myanmar</option>
+                    <option value="JAPAN">Japan</option>
+                    <option value="THAILAND">Thailand</option>
+                    <option value="KOREA">Korea</option>
+                    <option value="UK">Uk</option>
+                    </select>
+                </td>
+
+                <tr>
+                    <td><label for="gender">Gender</label></td>
+                    <td>
+                        <input type="radio" name="gender" value="MALE" id="gender">Male&nbsp;
+                        <input type="radio" name="gender" value="FEMALE" id="gender">Female&nbsp;
+                        <input type="radio" name="gender" value="OTHERS" id="gender">Others&nbsp;
+
+                    </td>
+                       
+
+                </tr>
+                <tr>
+                    <td><label for="language">Language</label></td>
+                    <td>
+                        <input type="checkbox" value ="JAVA" name="language" id="language">Java&nbsp;
+                        <input type="checkbox" value =" PYTHON" name="language" id="language">Python&nbsp;
+                        <input type="checkbox" value ="PHP" name="language" id="language">PHP&nbsp;
+
+                    </td>
+                       
+
+                </tr>
+                <tr>
+                    <td><label for="description" >Description</label></td>
+                    <td><textarea name="description" id="description" cols="30" rows="10"></textarea></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td align="right"><input type = "submit" value="Submit"></td>
+                </tr>
+                
+                <tr>
+                    <td></td>
+                    <td align="right"><input type = "reset" value="Reset"></td>
+                </tr>
+               
+            </tr>
+
+        </table>
+
+    </form>
+    
+</body>
+</html>
